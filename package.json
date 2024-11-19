@@ -1,6 +1,6 @@
 {
-  "name": "kafkajs",
-  "version": "2.2.4",
+  "name": "kafkajs-fixes",
+  "version": "2.3.0",
   "description": "A modern Apache Kafka client for node.js",
   "author": "Tulio Ornelas <ornelas.tulio@gmail.com>",
   "main": "index.js",
@@ -74,7 +74,6 @@
     "typescript": "^3.8.3",
     "uuid": "^3.3.2"
   },
-  "dependencies": {},
   "lint-staged": {
     "*.js": [
       "prettier --write",
